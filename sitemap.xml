@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/</loc>
+  <lastmod>2020-04-24T03:07:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FoodForLife/home2.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/tech/home.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FindThePenguins/index.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FoodForLife/Menu2.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FoodForLife/special2.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FoodForLife/giftcard.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/tech/service.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/tech/portfolio.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/tech/about.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/tech/letstalk.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://suruguruprotfolio.herokuapp.com/FoodForLife/nutritioninfo.html</loc>
+  <lastmod>2020-04-24T02:47:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
