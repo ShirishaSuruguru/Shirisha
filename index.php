@@ -94,7 +94,7 @@
             <div class="isotope portfolio-items">
                 <div class="element-item grid">
                     <div class="effect-zoe">
-                        <img class="img-responsive" alt="Portfolio" src="img/food.jpg">
+                        <img class="img-responsive" alt="Portfolio" src="img/Food.jpg">
                          <figcaption>
                             <a target="_blank" href="FoodForLife/home2.html">
                             <h2 id="abc">Responsive Website</h2>
